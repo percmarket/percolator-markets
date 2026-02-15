@@ -1,0 +1,22 @@
+[package]
+name = "percolator-markets"
+version = "0.1.0"
+description = "Insolvency-safe prediction markets on Solana with Percolator h-ratio settlement"
+edition = "2021"
+license = "Apache-2.0"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "percolator_markets"
+
+[features]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+cpi = ["no-entrypoint"]
+default = []
+
+[dependencies]
+anchor-lang = "0.30.1"
+anchor-spl = "0.30.1"
+
