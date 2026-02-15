@@ -126,7 +126,7 @@ Program ID: `PERCmkT7XHFjnMGiLBKo9Qxmf4BBJY6oSVhLwMpXuq`
 ## Links
 
 - [Percolator Core](https://github.com/aeyakovenko/percolator) — Original risk engine
-- [Risk Engine Fork](https://github.com/percmarket/percolator-CLI-excefy) — Prediction market adaptation
+- [Risk Engine Fork](https://github.com/percmarket/percolator-predictions) — Prediction market adaptation
 - [DexScreener](https://dexscreener.com) — Token data source
 
 ## License
